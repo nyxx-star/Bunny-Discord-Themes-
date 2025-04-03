@@ -1,20 +1,20 @@
 {
-  "name": "ny - Pure Black & White",
-  "description": "Yay!!!",
+  "name": "ny - Absolute Black & White",
+  "description": "yay",
   "authors": [
     {
       "name": "ny"
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#ffffff", "#ffffff"],
+    "ANDROID_RIPPLE": ["#000000", "#000000"],
     "BACKGROUND_ACCENT": ["#000000", "#000000"],
-    "BACKGROUND_MENTIONED": ["#ffffff20", "#ffffff20"],
+    "BACKGROUND_MENTIONED": ["#ffffff15", "#ffffff15"],
     "BACKGROUND_MENTIONED_HOVER": ["#121212", "#121212"],
     "BACKGROUND_MODIFIER_ACCENT": ["#000000", "#000000"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#121212", "#121212"], // Canal selecionado
+    "BACKGROUND_MODIFIER_ACTIVE": ["#121212", "#121212"],
     "BACKGROUND_MODIFIER_HOVER": ["#080808", "#080808"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#121212", "#121212"], // Canal selecionado
+    "BACKGROUND_MODIFIER_SELECTED": ["#121212", "#121212"],
     "BACKGROUND_MOBILE_PRIMARY": ["#000000", "#000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#000000", "#000000"],
     "BACKGROUND_NESTED_FLOATING": ["#000000", "#000000"],
@@ -25,7 +25,7 @@
     "BG_BASE_PRIMARY": ["#000000", "#000000"],
     "BG_BASE_SECONDARY": ["#000000", "#000000"],
     "BG_BASE_TERTIARY": ["#000000", "#000000"],
-    "EMBED_BACKGROUND": ["#080808", "#080808"],
+    "EMBED_BACKGROUND": ["#0d0d0d", "#0d0d0d"],
     "EMBED_FOOTER_BACKGROUND": ["#121212", "#121212"],
     "EMBED_TITLE": ["#ffffff", "#ffffff"],
     "EMBED_DESCRIPTION": ["#ffffff", "#ffffff"],
@@ -197,12 +197,12 @@
     "YELLOW_900": "#ffffff",
     "WHITE": "#000000",
     "WHITE_500": "#000000",
-    "EMBED_100": "#080808",
+    "EMBED_100": "#0d0d0d",
     "EMBED_200": "#121212",
     "EMBED_300": "#1a1a1a",
     "EMBED_LIGHT": "#ffffff",
-    "CHAT_MENTIONS_BACKGROUND_DARK": "#ffffff20",
-    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#ffffff20",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#ffffff15",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#ffffff15",
     "CHAT_MENTIONS_FOREGROUND_DARK": "#ffffff",
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#ffffff"
   },
